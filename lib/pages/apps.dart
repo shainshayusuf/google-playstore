@@ -48,6 +48,8 @@ class AppView extends StatelessWidget {
               children: <Widget>[
                 AppDetails('assets/images/googlesheets1.png','Google sheets','20MB'),
                 AppDetails('assets/images/zomato.png','Zomato','30MB'),
+                AppDetails('assets/images/gdrive.png','Google Drive','25MB'),
+
               ],
             ),
           ),

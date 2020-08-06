@@ -50,6 +50,7 @@ flutter:
      - assets/images/zomato.png
      - assets/images/googlesheets.png
      - assets/images/googlesheets1.png
+     - assets/images/gdrive.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
